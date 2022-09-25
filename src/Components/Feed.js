@@ -1,14 +1,14 @@
 import { useState } from 'react';
-
-import Block from './Block';
+import React from 'react';
 import Menu from './Menu';
+import Block from './Block';
 
 const Feed = () => {
-    /* Declare a new state variable to keep track of the blocks on your Blockstagram feed! */
-    // YOUR VAR HERE - Refer to Hint 2 for more help!
+    /* TODO: Declare a new state variable to keep track of the blocks on your Blockstagram feed! */
+    // Refer to Hint 2 for more help!
 
     /* Use the map() function to render multiple Blocks! */
-    const posts = null; // EDIT THIS VAR
+    const posts = null; // TODO: edit this variable
 
     return (
         <div>
